@@ -1,3 +1,29 @@
 {
-  "events": []
+  "events": [
+    {
+      "date": "Feb 22 (Sat)                                                                                    12 p.m. MT",
+      "opponent": "New Mexico United",
+      "location": "Albuquerque, N.M."
+    },
+    {
+      "date": "Mar 2 (Sun)                                                                                    1 p.m. MT",
+      "opponent": "Colorado Rapids II",
+      "location": "Commerce City, Colo."
+    },
+    {
+      "date": "Apr 5 (Sat)                                                                                    TBA",
+      "opponent": "Air Force",
+      "location": "USAFA, Colo.                                                                                                                USAFA, Colo."
+    },
+    {
+      "date": "Apr 12 (Sat)                                                                                    12 p.m. MT",
+      "opponent": "Utah Valley",
+      "location": "Denver, Colo.                                                                                    University of Denver Soccer Stadium                                                                                                                Denver, Colo.                                                                                    University of Denver Soccer Stadium"
+    },
+    {
+      "date": "Apr 24 (Thu)                                                                                    7 p.m. MT",
+      "opponent": "Metro State",
+      "location": "Denver, Colo.                                                                                    University of Denver Soccer Stadium                                                                                                                Denver, Colo.                                                                                    University of Denver Soccer Stadium"
+    }
+  ]
 }
